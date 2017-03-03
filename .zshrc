@@ -1,6 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH=/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/:$PATH
+export PATH=/Applications/Postgres.app/Contents/Versions/9.3/bin:$PATH
 export PYTHONPATH=$PYTHONPATH:/usr/local/lib/python2.7/site-packages
 
 # Path to your oh-my-zsh installation.
