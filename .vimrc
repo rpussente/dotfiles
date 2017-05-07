@@ -1,5 +1,6 @@
 " Force read encoding
 set encoding=utf-8
+
 " To work cool, disable compatibility with Vi
 set nocompatible
 
